@@ -16,6 +16,8 @@
 *   `TypeScript`
 *   `HTML5` / `CSS3`
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Zavgoyt=anuraghazra&stats_format=bytes)
+
 **Инструменты:**
 *   `Git` / `GitHub`
 *   `Vite`
@@ -35,7 +37,7 @@
 ## 📫 Как со мной связаться?
 
 *   **Telegram:** [@zavgo](https://t.me/zavgoyt) (предпочтительный способ)
-*   **Почта:** [zavgo@example.com](mailto:mail@zavgorodiy.ru)
+*   **Почта:** [mail@zavgorodiy.ru](mailto:mail@zavgorodiy.ru)
 
 ---
 
