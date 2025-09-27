@@ -16,7 +16,7 @@
 *   `TypeScript`
 *   `HTML5` / `CSS3`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Zavgoyt=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavgoyt&langs_count=8)
 
 **Инструменты:**
 *   `Git` / `GitHub`
