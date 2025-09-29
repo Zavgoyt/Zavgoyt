@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=𝐇𝐞𝐥𝐥𝐨,+𝐈'𝐦+𝗭𝗮𝘃𝗴𝗼!" alt="Typing SVG" />
 </h1>
 
-**Frontend developer who codes for passion... or money🤑**
-
-*   🚀 Specialized in **Svelte/SvelteKit**.
-*   ⚛️ Also proficient in **React**.
-*   🎯 My goal is to build something used by the whole world.
-
----
+> **Frontend developer who codes for passion... or money🤑**
 
 ## • Tech Stack
 
