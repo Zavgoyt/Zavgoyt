@@ -10,7 +10,7 @@
 
 ---
 
-## Tech Stack
+## • Tech Stack
 
 ### Frontend
 <div align="left">
@@ -40,13 +40,13 @@
 
 ---
 
-## Activity
+## • Activity
 
 [![Zavgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zavgoyt&show_icons=true&theme=radical)](https://github.com/Zavgoyt)
 
 ---
 
-## Contact
+## • Contact
 
 *   **Telegram:** [@zavgo](https://t.me/zavgoyt) (preferred)
 *   **Email:** [mail@zavgorodiy.ru](mailto:mail@zavgorodiy.ru)
