@@ -1,16 +1,6 @@
-<!-- Русская версия -->
-# 👋 Привет, я Zavgo!
-
-**Фронтенд-разработчик, пишу код для души, ну или за деньги🤑**
-
-*   🚀 Специализируюсь на **Svelte/SvelteKit**.
-*   ⚛️ Также уверенно владею **React**.
-*   🎯 Моя цель — создать что-то, чем будет пользоваться весь мир.
-
----
-
-<!-- English version -->
-# 👋 Hi, I'm Zavgo!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=𝐇𝐞𝐥𝐥𝐨,+𝐈'𝐦+Zavgo!" alt="Typing SVG" />
+</h1>
 
 **Frontend developer who codes for passion... or money🤑**
 
