@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=BF3030&center=true&vCenter=true&width=435&lines=𝐇𝐞𝐥𝐥𝐨,+𝐈'𝐦+𝗭𝗮𝘃𝗴𝗼!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=BF3030&center=true&vCenter=true&width=435&lines=Hello,+I`am+Zavgo!" alt="Typing SVG" />
 </h1>
 
 > **Frontend developer who codes for passion... or money🤑**
